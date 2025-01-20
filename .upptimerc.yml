@@ -18,15 +18,17 @@ sites:
 status-website:
   cname: statuspage.krea.edu.in
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.krea.edu.in/_/erp/logo.png
+  name: Krea Uptime
+  introTitle: Welcome to Krea University Uptime Monitoring
+  introMessage: At Krea University, we strive to ensure uninterrupted access to all our web services. This portal provides real-time updates and monitoring of our online platforms, ensuring you stay informed about their availability and performance.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Our Site
+      href: https://tech.krea.edu.in/
+i18n:
+  footer: Made with by Krea IT Team
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
