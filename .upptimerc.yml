@@ -28,7 +28,7 @@ status-website:
     - title: Our Site
       href: https://tech.krea.edu.in/
 i18n:
-  footer: Made with by Krea IT Team
+  footer: Made with ❤️ by [Krea IT Team](https://tech.krea.edu.in)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
