@@ -12,7 +12,7 @@ sites:
   - name: Krea ERP API
     url: https://api.erp.krea.edu.in
   - name: Krea It Site
-    url: https://hostingerkrea.edu.in  
+    url: https://hostinger.krea.edu.in  
   - name: Krea NMS
     url: https://sc-nms.krea.edu.in
 status-website:
