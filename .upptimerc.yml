@@ -3,18 +3,18 @@ owner: Krea-University # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Krea Website
+  - name: Main Website
     url: https://krea.edu.in
-  - name: Krea One ERP
+  - name: One ERP Frontend
     url: https://oneerp.krea.edu.in
-  - name: Krea ERP
+  - name: ERP Frontend
     url: https://erp.krea.edu.in
-  - name: Krea ERP API
-    url: https://api.erp.krea.edu.in/hello
-  - name: Krea It Site
+  - name: Main Website Webserver
     url: https://hostinger.krea.edu.in  
-  - name: Krea NMS
+  - name: NMS
     url: https://sc-nms.krea.edu.in
+  - name: ERP API
+    url: https://api.erp.krea.edu.in/heartbeat
 status-website:
   cname: statuspage.krea.edu.in
   # baseUrl: /your-repo-name
