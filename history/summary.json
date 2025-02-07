@@ -76,19 +76,19 @@
     "url": "https://sc-nms.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
     "slug": "nms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 797,
-    "timeWeek": 907,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 936,
+    "timeDay": 847,
+    "timeWeek": 920,
+    "timeMonth": 936,
+    "timeYear": 936,
     "dailyMinutesDown": {
-      "2025-02-07": 0
+      "2025-02-07": 11
     }
   },
   {
