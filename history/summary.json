@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 122,
-    "timeWeek": 245,
-    "timeMonth": 189,
-    "timeYear": 202,
+    "time": 201,
+    "timeDay": 163,
+    "timeWeek": 217,
+    "timeMonth": 190,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 170,
-    "timeWeek": 214,
-    "timeMonth": 186,
-    "timeYear": 166,
+    "time": 168,
+    "timeDay": 252,
+    "timeWeek": 193,
+    "timeMonth": 189,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 134,
-    "timeWeek": 184,
-    "timeMonth": 177,
-    "timeYear": 180,
+    "time": 182,
+    "timeDay": 306,
+    "timeWeek": 190,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
-    "time": 1081,
-    "timeDay": 1093,
-    "timeWeek": 1123,
-    "timeMonth": 1086,
-    "timeYear": 1081,
+    "time": 1083,
+    "timeDay": 1199,
+    "timeWeek": 1118,
+    "timeMonth": 1091,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-02-28": 76
     }
@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
     "slug": "nms",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 735,
-    "timeWeek": 974,
-    "timeMonth": 986,
-    "timeYear": 967,
-    "dailyMinutesDown": {
-      "2025-03-24": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 969,
+    "timeDay": 745,
+    "timeWeek": 984,
+    "timeMonth": 988,
+    "timeYear": 969,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ERP API",
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 339,
-    "timeWeek": 724,
-    "timeMonth": 837,
-    "timeYear": 1012,
+    "time": 1001,
+    "timeDay": 325,
+    "timeWeek": 533,
+    "timeMonth": 778,
+    "timeYear": 1001,
     "dailyMinutesDown": {}
   }
 ]
