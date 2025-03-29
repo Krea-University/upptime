@@ -13,7 +13,7 @@
     "time": 211,
     "timeDay": 272,
     "timeWeek": 273,
-    "timeMonth": 216,
+    "timeMonth": 213,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 182,
     "timeDay": 179,
     "timeWeek": 182,
-    "timeMonth": 183,
+    "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -62,12 +62,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
     "time": 1086,
     "timeDay": 1130,
     "timeWeek": 1134,
-    "timeMonth": 1093,
+    "timeMonth": 1091,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-02-28": 76
@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
     "slug": "nms",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 969,
     "timeDay": 948,
     "timeWeek": 950,
-    "timeMonth": 983,
+    "timeMonth": 984,
     "timeYear": 969,
-    "dailyMinutesDown": {
-      "2025-03-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ERP API",
@@ -107,7 +105,7 @@
     "time": 962,
     "timeDay": 351,
     "timeWeek": 333,
-    "timeMonth": 775,
+    "timeMonth": 759,
     "timeYear": 962,
     "dailyMinutesDown": {}
   }
