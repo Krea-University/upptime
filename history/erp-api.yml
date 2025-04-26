@@ -1,7 +1,7 @@
 url: https://api.erp.krea.edu.in/heartbeat
-status: up
-code: 200
-responseTime: 1986
-lastUpdated: 2025-04-25T23:03:11.066Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-04-26T21:23:27.474Z
 startTime: 2025-01-20T12:22:37.616Z
 generator: Upptime <https://github.com/upptime/upptime>
