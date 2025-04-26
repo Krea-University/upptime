@@ -78,18 +78,20 @@
     "url": "https://sc-nms.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
     "slug": "nms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 940,
-    "timeWeek": 988,
-    "timeMonth": 1009,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "time": 975,
+    "timeDay": 547,
+    "timeWeek": 903,
+    "timeMonth": 986,
+    "timeYear": 975,
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "ERP API",
