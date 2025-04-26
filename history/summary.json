@@ -79,28 +79,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
     "slug": "nms",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 974,
     "timeDay": 668,
     "timeWeek": 903,
     "timeMonth": 984,
     "timeYear": 974,
-    "dailyMinutesDown": {
-      "2025-04-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ERP API",
     "url": "https://api.erp.krea.edu.in/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/api.erp.krea.edu.in.ico",
     "slug": "erp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +107,8 @@
     "timeWeek": 977,
     "timeMonth": 744,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   }
 ]
