@@ -98,19 +98,19 @@
     "url": "https://api.erp.krea.edu.in/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/api.erp.krea.edu.in.ico",
     "slug": "erp-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 1730,
-    "timeWeek": 969,
-    "timeMonth": 932,
-    "timeYear": 909,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 910,
+    "timeDay": 1358,
+    "timeWeek": 971,
+    "timeMonth": 933,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-05-15": 0
+      "2025-05-15": 16
     }
   }
 ]
