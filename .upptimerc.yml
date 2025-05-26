@@ -11,8 +11,6 @@ sites:
     url: https://erp.krea.edu.in
   - name: Main Website Webserver
     url: https://hostinger.krea.edu.in  
-  - name: NMS
-    url: https://sc-nms.krea.edu.in
   - name: ERP API
     url: https://api.erp.krea.edu.in/heartbeat
 status-website:
