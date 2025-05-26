@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 119,
-    "timeWeek": 175,
-    "timeMonth": 217,
-    "timeYear": 205,
+    "time": 214,
+    "timeDay": 740,
+    "timeWeek": 324,
+    "timeMonth": 254,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 145,
-    "timeWeek": 175,
+    "timeDay": 172,
+    "timeWeek": 178,
     "timeMonth": 192,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 176,
-    "timeWeek": 201,
+    "timeDay": 183,
+    "timeWeek": 199,
     "timeMonth": 187,
     "timeYear": 180,
     "dailyMinutesDown": {}
@@ -65,43 +65,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1100,
-    "timeDay": 1228,
-    "timeWeek": 1148,
-    "timeMonth": 1134,
+    "timeDay": 1199,
+    "timeWeek": 1151,
+    "timeMonth": 1136,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2025-02-28": 76
-    }
-  },
-  {
-    "name": "NMS",
-    "url": "https://sc-nms.krea.edu.in",
-    "icon": "https://icons.duckduckgo.com/ip3/sc-nms.krea.edu.in.ico",
-    "slug": "nms",
-    "status": "down",
-    "uptime": "92.43%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.76%",
-    "uptimeYear": "92.43%",
-    "time": 967,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 902,
-    "timeYear": 967,
-    "dailyMinutesDown": {
-      "2025-05-26": 29,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 602,
-      "2025-05-12": 94
     }
   },
   {
@@ -115,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 897,
-    "timeDay": 998,
-    "timeWeek": 779,
-    "timeMonth": 852,
-    "timeYear": 897,
+    "time": 893,
+    "timeDay": 684,
+    "timeWeek": 728,
+    "timeMonth": 837,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2025-05-15": 16
     }
