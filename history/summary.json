@@ -4,19 +4,19 @@
     "url": "https://krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/krea.edu.in.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
-    "time": 216,
-    "timeDay": 781,
-    "timeWeek": 409,
-    "timeMonth": 265,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "88.37%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.94%",
+    "time": 226,
+    "timeDay": 1043,
+    "timeWeek": 562,
+    "timeMonth": 318,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-07-25": 75
+      "2025-07-25": 168
     }
   },
   {
