@@ -4,18 +4,20 @@
     "url": "https://krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/krea.edu.in.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 144,
-    "timeWeek": 158,
-    "timeMonth": 192,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 462,
+    "timeWeek": 236,
+    "timeMonth": 211,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "One ERP Frontend",
