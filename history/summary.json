@@ -25,19 +25,19 @@
     "url": "https://oneerp.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/oneerp.krea.edu.in.ico",
     "slug": "one-erp-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 164,
-    "timeWeek": 312,
-    "timeMonth": 254,
+    "timeDay": 167,
+    "timeWeek": 297,
+    "timeMonth": 251,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 10
     }
   },
   {
