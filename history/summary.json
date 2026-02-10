@@ -26,10 +26,10 @@
     "url": "https://oneerp.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/oneerp.krea.edu.in.ico",
     "slug": "one-erp-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 225,
@@ -38,6 +38,7 @@
     "timeMonth": 188,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2026-02-10": 2,
       "2025-11-18": 112
     }
   },
@@ -46,9 +47,9 @@
     "url": "https://erp.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/erp.krea.edu.in.ico",
     "slug": "erp-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +59,7 @@
     "timeMonth": 183,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2025-11-18": 94
     }
   },
@@ -68,13 +70,13 @@
     "slug": "main-website-webserver",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "91.75%",
-    "uptimeWeek": "92.11%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "92.15%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "99.53%",
     "time": 1279,
-    "timeDay": 1594,
-    "timeWeek": 1662,
+    "timeDay": 1625,
+    "timeWeek": 1661,
     "timeMonth": 1426,
     "timeYear": 1285,
     "dailyMinutesDown": {
