@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 235,
-    "timeDay": 128,
-    "timeWeek": 130,
-    "timeMonth": 129,
-    "timeYear": 241,
+    "timeDay": 144,
+    "timeWeek": 131,
+    "timeMonth": 125,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-18": 94,
       "2025-07-28": 368,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 219,
-    "timeDay": 114,
-    "timeWeek": 141,
-    "timeMonth": 150,
+    "time": 218,
+    "timeDay": 168,
+    "timeWeek": 140,
+    "timeMonth": 149,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-02-24": 27,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 217,
-    "timeDay": 99,
+    "timeDay": 120,
     "timeWeek": 135,
-    "timeMonth": 152,
+    "timeMonth": 148,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-02-10": 27,
@@ -70,15 +70,15 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "87.41%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "93.48%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1324,
-    "timeDay": 1271,
-    "timeWeek": 1275,
+    "timeDay": 1286,
+    "timeWeek": 1282,
     "timeMonth": 1460,
     "timeYear": 1340,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
       "2026-02-26": 119,
       "2026-02-25": 30,
       "2026-02-24": 19,
-      "2026-02-23": 50
+      "2026-02-23": 24
     }
   },
   {
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
-    "timeDay": 348,
-    "timeWeek": 640,
-    "timeMonth": 599,
-    "timeYear": 660,
+    "timeDay": 350,
+    "timeWeek": 638,
+    "timeMonth": 593,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2025-05-15": 16
     }
