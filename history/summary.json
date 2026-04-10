@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 230,
-    "timeDay": 176,
-    "timeWeek": 131,
-    "timeMonth": 139,
+    "timeDay": 191,
+    "timeWeek": 147,
+    "timeMonth": 141,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -33,8 +33,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 215,
-    "timeDay": 163,
-    "timeWeek": 148,
+    "timeDay": 172,
+    "timeWeek": 155,
     "timeMonth": 150,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -56,9 +56,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 213,
-    "timeDay": 152,
-    "timeWeek": 138,
-    "timeMonth": 147,
+    "timeDay": 166,
+    "timeWeek": 145,
+    "timeMonth": 148,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2026-04-09": 28,
@@ -71,16 +71,16 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "88.81%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "88.80%",
     "uptimeWeek": "84.80%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "99.40%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.41%",
     "time": 1314,
     "timeDay": 1244,
-    "timeWeek": 1218,
-    "timeMonth": 1245,
+    "timeWeek": 1220,
+    "timeMonth": 1246,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2026-04-10": 162,
@@ -106,7 +106,7 @@
       "2026-03-21": 107,
       "2026-03-20": 23,
       "2026-03-19": 70,
-      "2026-03-18": 180
+      "2026-03-18": 126
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 1455,
-    "timeWeek": 816,
-    "timeMonth": 683,
-    "timeYear": 666,
+    "time": 710,
+    "timeDay": 931,
+    "timeWeek": 820,
+    "timeMonth": 684,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2025-05-15": 16
     }
