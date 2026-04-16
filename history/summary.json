@@ -73,17 +73,17 @@
     "slug": "main-website-webserver",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "93.23%",
-    "uptimeWeek": "80.43%",
-    "uptimeMonth": "91.42%",
+    "uptimeDay": "88.98%",
+    "uptimeWeek": "80.07%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 1309,
-    "timeDay": 1201,
+    "timeDay": 1210,
     "timeWeek": 1208,
     "timeMonth": 1227,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2026-04-16": 98,
+      "2026-04-16": 159,
       "2026-04-15": 263,
       "2026-04-14": 87,
       "2026-04-13": 381,
@@ -100,7 +100,7 @@
       "2026-04-02": 22,
       "2026-04-01": 126,
       "2026-03-31": 83,
-      "2026-03-30": 159
+      "2026-03-30": 112
     }
   },
   {
