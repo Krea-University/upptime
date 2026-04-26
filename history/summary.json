@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 237,
-    "timeDay": 108,
-    "timeWeek": 138,
-    "timeMonth": 299,
+    "timeDay": 134,
+    "timeWeek": 134,
+    "timeMonth": 296,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 214,
-    "timeDay": 105,
-    "timeWeek": 157,
-    "timeMonth": 162,
+    "timeDay": 168,
+    "timeWeek": 153,
+    "timeMonth": 163,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-02-24": 27,
@@ -56,9 +56,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 211,
-    "timeDay": 92,
-    "timeWeek": 148,
-    "timeMonth": 152,
+    "timeDay": 175,
+    "timeWeek": 144,
+    "timeMonth": 153,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2026-04-09": 28,
@@ -71,15 +71,15 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "84.05%",
-    "uptimeWeek": "84.65%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "84.03%",
+    "uptimeWeek": "85.18%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "99.23%",
     "time": 1304,
-    "timeDay": 1244,
-    "timeWeek": 1191,
+    "timeDay": 1214,
+    "timeWeek": 1189,
     "timeMonth": 1214,
     "timeYear": 1324,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
       "2026-04-13": 381,
       "2026-04-12": 695,
       "2026-04-11": 223,
-      "2026-04-10": 178
+      "2026-04-10": 136
     }
   },
   {
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 704,
-    "timeDay": 820,
-    "timeWeek": 672,
-    "timeMonth": 642,
-    "timeYear": 650,
+    "timeDay": 331,
+    "timeWeek": 547,
+    "timeMonth": 643,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2025-05-15": 16
     }
