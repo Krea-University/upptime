@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 229,
-    "timeDay": 156,
-    "timeWeek": 237,
-    "timeMonth": 129,
+    "timeDay": 262,
+    "timeWeek": 240,
+    "timeMonth": 133,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-07-25": 168,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 211,
-    "timeDay": 164,
-    "timeWeek": 171,
-    "timeMonth": 137,
+    "timeDay": 181,
+    "timeWeek": 173,
+    "timeMonth": 138,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-18": 112,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 208,
-    "timeDay": 189,
-    "timeWeek": 181,
-    "timeMonth": 146,
+    "timeDay": 171,
+    "timeWeek": 180,
+    "timeMonth": 147,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -71,16 +71,16 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "53.50%",
-    "uptimeWeek": "65.54%",
-    "uptimeMonth": "84.10%",
+    "uptimeDay": "53.15%",
+    "uptimeWeek": "65.49%",
+    "uptimeMonth": "84.09%",
     "uptimeYear": "98.57%",
     "time": 1292,
-    "timeDay": 1205,
+    "timeDay": 1197,
     "timeWeek": 1180,
-    "timeMonth": 1177,
+    "timeMonth": 1176,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2026-05-02": 29,
@@ -116,7 +116,7 @@
       "2026-06-02": 389,
       "2026-06-03": 906,
       "2026-06-04": 933,
-      "2026-06-05": 670
+      "2026-06-05": 675
     }
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 357,
-    "timeWeek": 750,
-    "timeMonth": 772,
-    "timeYear": 638,
+    "time": 702,
+    "timeDay": 1127,
+    "timeWeek": 797,
+    "timeMonth": 783,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   }
 ]
