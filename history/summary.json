@@ -71,10 +71,10 @@
     "slug": "main-website-webserver",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "99.32%",
     "time": 1279,
     "timeDay": 1061,
     "timeWeek": 1085,
@@ -104,7 +104,8 @@
       "2026-08-15": 15,
       "2026-08-17": 142,
       "2026-08-18": 43,
-      "2026-08-20": 55
+      "2026-08-20": 62,
+      "2026-08-21": 19
     }
   },
   {
