@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 339,
-    "timeDay": 0,
-    "timeWeek": 1545,
-    "timeMonth": 1553,
-    "timeYear": 357,
+    "time": 341,
+    "timeDay": 1226,
+    "timeWeek": 1499,
+    "timeMonth": 1543,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2025-11-18": 94
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 202,
-    "timeDay": 0,
-    "timeWeek": 152,
+    "timeDay": 135,
+    "timeWeek": 150,
     "timeMonth": 136,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 0,
-    "timeWeek": 146,
-    "timeMonth": 125,
+    "timeDay": 97,
+    "timeWeek": 139,
+    "timeMonth": 124,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -69,15 +69,15 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "97.60%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 1274,
-    "timeDay": 1145,
-    "timeWeek": 1118,
+    "timeDay": 1152,
+    "timeWeek": 1120,
     "timeMonth": 1135,
     "timeYear": 1288,
     "dailyMinutesDown": {
@@ -105,7 +105,7 @@
       "2026-08-21": 97,
       "2026-08-22": 27,
       "2026-08-24": 99,
-      "2026-08-25": 35
+      "2026-08-25": 36
     }
   },
   {
@@ -119,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 677,
-    "timeDay": 0,
-    "timeWeek": 765,
-    "timeMonth": 658,
-    "timeYear": 645,
+    "time": 674,
+    "timeDay": 289,
+    "timeWeek": 697,
+    "timeMonth": 647,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-07-22": 30
     }
