@@ -69,11 +69,11 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "86.22%",
-    "uptimeMonth": "90.60%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "86.26%",
+    "uptimeMonth": "90.61%",
     "uptimeYear": "99.22%",
     "time": 1271,
     "timeDay": 1126,
@@ -108,7 +108,7 @@
       "2026-08-29": 282,
       "2026-08-30": 32,
       "2026-08-31": 89,
-      "2026-09-01": 36
+      "2026-09-01": 31
     }
   },
   {
