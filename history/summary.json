@@ -13,7 +13,7 @@
     "time": 354,
     "timeDay": 243,
     "timeWeek": 916,
-    "timeMonth": 1390,
+    "timeMonth": 1374,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -33,7 +33,7 @@
     "time": 201,
     "timeDay": 221,
     "timeWeek": 164,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-11-18": 112,
@@ -56,7 +56,7 @@
     "time": 201,
     "timeDay": 216,
     "timeWeek": 165,
-    "timeMonth": 140,
+    "timeMonth": 141,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -69,9 +69,9 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "96.86%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "89.70%",
     "uptimeMonth": "90.98%",
     "uptimeYear": "99.24%",
@@ -109,7 +109,7 @@
       "2026-08-31": 89,
       "2026-09-01": 49,
       "2026-09-02": 72,
-      "2026-09-03": 46
+      "2026-09-03": 45
     }
   },
   {
@@ -126,7 +126,7 @@
     "time": 673,
     "timeDay": 1090,
     "timeWeek": 891,
-    "timeMonth": 666,
+    "timeMonth": 676,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2026-07-22": 30
