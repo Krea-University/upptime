@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 354,
-    "timeDay": 233,
-    "timeWeek": 1186,
-    "timeMonth": 1478,
-    "timeYear": 377,
+    "timeDay": 63,
+    "timeWeek": 1013,
+    "timeMonth": 1427,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 94
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 202,
-    "timeDay": 181,
-    "timeWeek": 149,
-    "timeMonth": 137,
-    "timeYear": 202,
+    "time": 201,
+    "timeDay": 195,
+    "timeWeek": 156,
+    "timeMonth": 141,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-11-18": 112,
       "2026-02-10": 28,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 171,
-    "timeWeek": 167,
-    "timeMonth": 137,
+    "timeDay": 118,
+    "timeWeek": 158,
+    "timeMonth": 138,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "90.90%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.52%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "99.23%",
     "time": 1272,
-    "timeDay": 1102,
-    "timeWeek": 1114,
-    "timeMonth": 1128,
+    "timeDay": 1107,
+    "timeWeek": 1115,
+    "timeMonth": 1129,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2026-08-03": 77,
+      "2026-08-03": 153,
       "2026-08-04": 289,
       "2026-08-05": 230,
       "2026-08-06": 310,
@@ -108,7 +108,7 @@
       "2026-08-30": 32,
       "2026-08-31": 89,
       "2026-09-01": 49,
-      "2026-09-02": 75
+      "2026-09-02": 72
     }
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 1072,
-    "timeWeek": 760,
-    "timeMonth": 630,
-    "timeYear": 648,
+    "time": 673,
+    "timeDay": 1008,
+    "timeWeek": 862,
+    "timeMonth": 652,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2026-07-22": 30
     }
