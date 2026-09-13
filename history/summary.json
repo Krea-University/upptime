@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 351,
-    "timeDay": 70,
-    "timeWeek": 104,
-    "timeMonth": 964,
+    "timeDay": 107,
+    "timeWeek": 105,
+    "timeMonth": 914,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 200,
-    "timeDay": 80,
-    "timeWeek": 130,
-    "timeMonth": 148,
+    "timeDay": 145,
+    "timeWeek": 132,
+    "timeMonth": 147,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-11-18": 112,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 201,
-    "timeDay": 81,
-    "timeWeek": 160,
-    "timeMonth": 156,
+    "timeDay": 154,
+    "timeWeek": 159,
+    "timeMonth": 158,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-11-18": 94,
@@ -69,17 +69,17 @@
     "url": "https://hostinger.krea.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/hostinger.krea.edu.in.ico",
     "slug": "main-website-webserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "94.65%",
     "uptimeYear": "99.28%",
     "time": 1264,
-    "timeDay": 1185,
-    "timeWeek": 1174,
+    "timeDay": 1160,
+    "timeWeek": 1168,
     "timeMonth": 1134,
-    "timeYear": 1276,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2026-08-05": 152,
       "2026-08-06": 310,
@@ -113,7 +113,7 @@
       "2026-09-07": 16,
       "2026-09-09": 40,
       "2026-09-12": 19,
-      "2026-09-13": 17
+      "2026-09-13": 14
     }
   },
   {
@@ -127,10 +127,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 665,
-    "timeDay": 967,
-    "timeWeek": 522,
-    "timeMonth": 656,
+    "time": 664,
+    "timeDay": 1088,
+    "timeWeek": 545,
+    "timeMonth": 654,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-07-22": 30
