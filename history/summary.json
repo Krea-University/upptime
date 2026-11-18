@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 353,
-    "timeDay": 110,
-    "timeWeek": 146,
-    "timeMonth": 168,
-    "timeYear": 366,
-    "dailyMinutesDown": {
-      "2025-11-18": 94
-    }
+    "timeDay": 84,
+    "timeWeek": 139,
+    "timeMonth": 167,
+    "timeYear": 365,
+    "dailyMinutesDown": {}
   },
   {
     "name": "One ERP Frontend",
@@ -30,13 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 206,
-    "timeDay": 405,
-    "timeWeek": 206,
-    "timeMonth": 245,
+    "time": 205,
+    "timeDay": 122,
+    "timeWeek": 195,
+    "timeMonth": 244,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-11-18": 112,
       "2026-02-10": 28,
       "2026-02-13": 17,
       "2026-02-24": 27
@@ -54,12 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 476,
-    "timeWeek": 224,
-    "timeMonth": 200,
-    "timeYear": 193,
+    "timeDay": 260,
+    "timeWeek": 239,
+    "timeMonth": 203,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-11-18": 94,
       "2026-02-10": 27,
       "2026-04-09": 28
     }
@@ -76,9 +72,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.33%",
     "time": 1258,
-    "timeDay": 1008,
-    "timeWeek": 1046,
-    "timeMonth": 1075,
+    "timeDay": 1172,
+    "timeWeek": 1045,
+    "timeMonth": 1078,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2026-08-08": 120,
@@ -139,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
-    "timeDay": 1239,
-    "timeWeek": 842,
-    "timeMonth": 701,
+    "timeDay": 1185,
+    "timeWeek": 969,
+    "timeMonth": 699,
     "timeYear": 674,
     "dailyMinutesDown": {
       "2026-07-22": 30
